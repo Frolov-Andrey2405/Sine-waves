@@ -1,0 +1,20 @@
+# Linting and code formatting
+autopep8
+black
+isort
+pep8-naming
+pycodestyle
+
+# Ruff
+ruff
+
+# Flake8
+autoflake
+flake8
+
+# Main libraries
+matplotlib
+numpy
+numba
+pygame
+pymunk
