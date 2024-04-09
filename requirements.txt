@@ -16,5 +16,3 @@ flake8
 matplotlib
 numpy
 numba
-pygame
-pymunk
