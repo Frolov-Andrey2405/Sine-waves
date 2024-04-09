@@ -1,4 +1,4 @@
-# # Water rendering using sine waves
+# Sine waves
 
 _Sine waves_ - these are oscillators that are constantly moving back and forth between two different values. This is useful because we know for sure that at whatever point in time we take a sample of our wave, it will always be somewhere between its peaks. The peak value of a wave is called its amplitude. Since the amplitude of the base wave is $\alpha$, we can easily change it to any other wave by multiplying the wave by the peak value we want.
 
