@@ -1,7 +1,8 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.animation as animation
 from dataclasses import dataclass, field
+
+import matplotlib.animation as animation
+import matplotlib.pyplot as plt
+import numpy as np
 from numba import jit
 
 
